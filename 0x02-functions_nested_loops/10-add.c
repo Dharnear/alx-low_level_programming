@@ -1,7 +1,9 @@
 #include "main.h"
 
 /**
- * main - add two integers
+ * add - add two integers
+ * @a: two integer arguments
+ * @b: two integer arguments
  * Return: Always 0
  */
 
