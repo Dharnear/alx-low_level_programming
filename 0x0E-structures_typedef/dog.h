@@ -1,15 +1,11 @@
-#ifndef DOG_H
-#define DOG_H
+#ifndef DOG_H_FILE
+#define DOG_H_FILE
 
 /**
- * dog_t - Typedef for struct dog
- */
-
-/**
- * struct dog - structure for dogs
- * @name: first member
- * @age: second member
- * @owner: third member
+ * struct dog - structure definition of a dog
+ * @name: dog name
+ * @age: dog age
+ * @owner: owner
  */
 
 typedef struct dog
